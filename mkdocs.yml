@@ -1,0 +1,12 @@
+site_name: Discordis Docs
+nav:
+  - Home: index.md
+  - About: index.md
+theme:
+  name: material
+  palette:
+    primary: "Light Blue"
+    accent: "Light Blue"
+markdown_extensions:
+  - admonition
+  - codehilite
