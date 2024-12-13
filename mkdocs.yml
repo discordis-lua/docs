@@ -1,5 +1,4 @@
 site_name: Discordis Docs
-site_url: https://discordis-lua.github.io/docs
 nav:
   - Home: index.md
   - About: index.md
